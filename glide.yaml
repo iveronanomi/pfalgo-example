@@ -1,0 +1,3 @@
+package: github.com/iveronanomi/pfalgo-example
+import:
+- package: github.com/iveronanomi/pfalgo

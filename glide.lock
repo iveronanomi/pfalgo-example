@@ -1,0 +1,6 @@
+hash: 884dd85b6f972998c16d8228a772494766f55d75351774103e461e634c7416bc
+updated: 2018-02-28T13:25:01.605330159+03:00
+imports:
+- name: github.com/iveronanomi/pfalgo
+  version: aaa650c6bb5c0c6ca694b914279e68a2a5eb5773
+testImports: []
